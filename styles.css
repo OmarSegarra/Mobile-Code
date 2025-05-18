@@ -1,0 +1,54 @@
+@media only all and (max-width: 768px) {
+}
+
+
+/*Body Styling:*/
+	body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+	                            	/*sets the entire page's background color.*/
+	                            	/*defines the primary and fallback fonts.*/
+	                            	/*adds space around the entire page content.*/
+
+/*Heading Styling:*/
+	h2 {
+	    color: rgb(251, 251, 251);
+	    font-size: 2em;
+		font-weight: bold;
+		font-family: Garamond, sans-serif;
+		background: #003763;
+		text-align: center;
+	}
+                               		/*changes the heading text color to navy blue.*/
+	                            	/*makes the heading twice the default text size.*/
+
+
+/*Paragraph Styling:*/
+	p {
+	    color: darkslategray;
+	    font-size: 1.2em;
+		
+	}
+	                                /*sets a darker shade for paragraph text.*/
+	                                /*slightly increases the text size.*/
+
+
+/*List Styling:*/
+	ul {
+    
+	    list-style-type: square;
+	}
+	                            	/*changes the bullet points in the list to squares.*/
+
+
+/*Image Styling*/
+
+	img {
+	    max-width: 100%;
+	    height: auto;
+	}
+	                        	    /*ensures the image never exceeds its container's width.*/
+	                                /*maintains the image's aspect ratio.*/
